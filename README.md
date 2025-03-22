@@ -40,7 +40,7 @@
 <br />
 
 <p align="center">
-  - 📫 How to reach me : ujjawalseth@example.com  <a href="mailto:ujjawalseth2005@gmail.com">
+  - 📫 How to reach me : ujjawalseth2005@gmail.com  <a href="mailto:ujjawalseth2005@gmail.com">
     <img alt="GMail" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>  
  
